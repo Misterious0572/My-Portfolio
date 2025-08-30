@@ -4,7 +4,7 @@ This repository contains the source code for my personal portfolio website, whic
 
 **Live Demo:** **[https://Misterious0572.github.io/My-Portfolio/](https://Misterious0572.github.io/My-Portfolio/)** 🚀
 
-![Screenshot of My Portfolio](./images/screenshot.png)
+![Screenshot of My Portfolio](./images/Screenshot2025-08-30115318.png)
 
 
 ## 🌟 Features

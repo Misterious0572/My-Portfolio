@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { 
   Mail, 
   Phone, 
@@ -339,7 +339,7 @@ function App() {
           </div>
 
           <div className="grid md:grid-cols-2 gap-8">
-            {skills.map((skill, index) => (
+            {skills.map((skill) => (
               <div key={skill.name} className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300">
                 <div className="flex justify-between items-center mb-3">
                   <span className="font-semibold text-gray-900">{skill.name}</span>
